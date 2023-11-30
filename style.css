@@ -67,4 +67,8 @@
     padding: 10px;
     width: calc(100% - 22px);
   }
+
+  #nv {
+    margin-bottom: 40px;
+  }
   
